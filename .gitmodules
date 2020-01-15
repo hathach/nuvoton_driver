@@ -1,0 +1,15 @@
+[submodule "NUC121_125BSP"]
+	path = NUC121_125BSP
+	url = https://github.com/OpenNuvoton/NUC121_125BSP.git
+[submodule "NUC126BSP"]
+	path = NUC126BSP
+	url = https://github.com/OpenNuvoton/NUC126BSP.git
+[submodule "NUC505BSP"]
+	path = NUC505BSP
+	url = https://github.com/OpenNuvoton/NUC505BSP.git
+[submodule "M451BSP"]
+	path = M451BSP
+	url = https://github.com/OpenNuvoton/M451BSP.git
+[submodule "M4521BSP"]
+	path = M4521BSP
+	url = https://github.com/OpenNuvoton/M4521BSP.git
